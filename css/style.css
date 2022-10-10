@@ -4,6 +4,7 @@ body{
 
 p{
     height: 50px;
+    min-width: 80px;
 }
 
 [class*="aqua"]{

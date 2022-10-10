@@ -24,7 +24,7 @@ let lista = document.querySelector("#lista")
                 attribute ="yellow"
             }
 
-            lista.innerHTML += `<p class="col-1 m-1 ratio-1x1 ${attribute}">${message}</p>`
+            lista.innerHTML += `<p class="col-1 m-1 ${attribute}">${message}</p>`
             
             message = ""
         }
