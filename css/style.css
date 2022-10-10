@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+p{
+    height: 50px;
+}
+
+[class*="aqua"]{
+    background-color: aqua;
+}
+
+[class*="green"]{
+    background-color: green;
+}
+
+[class*="blue"]{
+    background-color: blue;
+}
+
+[class*="yellow"]{
+    background-color: yellow;
+}
